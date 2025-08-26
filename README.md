@@ -1,15 +1,10 @@
-## Ola, eu sou Rubens Henrique  👋
 
-- 🔭 Atualmente Curso Engenharia de Computação 
+# 👩🏻‍💻  Rubens Henrique
+- 🏛️ Cursando Engenharia de Computação na PUC Minas 
 - 🌱 Estudando sobre cibersegurança e pentest
 - 👯 Projetos : Atualmente  estou em um projeto de Iniciação Científica 
 - 💬 Contate-me no email : rubenshenrique456@outlook.com 
 
-# 👩🏻‍💻  Rubens Henrique
-
-**`Programador em Java C `**
-
-Me chamo Rubens Henrique , tenho 24 anos e sou natural de Belo Horizonte. Atualmente, estou cursando Engenharia de Computação na PUC Minas, estudando
 <p align="left">
     </a> 
     <a href="https://github.com/Rubens-Henrique?tab=repositories&sort=stargazers">
