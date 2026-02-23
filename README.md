@@ -3,7 +3,7 @@
 - 🏛️ Cursando Engenharia de Computação na PUC Minas 
 - 🌱 Estudando sobre cibersegurança e pentest
 - 👯 Projetos : Atualmente  estou em um projeto de Iniciação Científica 
-- 💬 Contate-me no email : rubenshenrique456@outlook.com 
+- 💬 Contate-me no email : rubenshenrique456@gmail.com
 
 <p align="left">
     </a> 
